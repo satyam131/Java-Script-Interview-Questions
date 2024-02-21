@@ -1,5 +1,6 @@
 // Second largest element from List , changed to set
 // Set contains a set of only unique elements.
+// Converted set to array using spread operator (...)
 
 // finding second largest element from an array
 
